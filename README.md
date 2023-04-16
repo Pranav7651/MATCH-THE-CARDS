@@ -4,7 +4,7 @@ It's a matching the card game.
 
 In this there there is a 3 X 4 matrix consisting of total 12 boxes.
 
-We have to match select 2 boxes at a time.
+We have to select 2 boxes at a time.
 
 If both the box are same you will get one point and that two boxes will be vanished.
 If the 2 box are not same then you will not get any point and you have to keep trying until you find a match.
