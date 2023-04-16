@@ -4,10 +4,10 @@ It's a matching the card game.
 
 In this there there is a 3 X 4 matrix consisting of total 12 boxes.
 
-We have to select 2 boxes at a time.
+User have to select 2 boxes at a time.
 
-If both the box are same you will get one point and that two boxes will be vanished.
-If the 2 box are not same then you will not get any point and you have to keep trying until you find a match.
+If both the boxes are same user will get one point and the two boxes will be vanished.
+If the 2 boxes are not same then user will not get any point and user have to keep trying until user find a match.
 After matching all the 6 pairs i.e 12 boxes user wins the game.
 
 ![Screenshot (539)](https://user-images.githubusercontent.com/93943990/232277926-e3fd381d-124b-432e-af57-f018e85c38df.png)
