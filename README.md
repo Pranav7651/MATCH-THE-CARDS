@@ -1,1 +1,16 @@
 # MATCH-THE-CARDS
+
+It's a matching the card game.
+
+In this there there is a 3 X 4 matrix consisting of total 12 boxes.
+
+We have to match select 2 boxes at a time.
+
+If both the box are same you will get one point and that two boxes will be vanished.
+If the 2 box are not same then you will not get any point and you have to keep trying until you find a match.
+After matching all the 6 pairs i.e 12 boxes user wins the game.
+
+![Screenshot (539)](https://user-images.githubusercontent.com/93943990/232277926-e3fd381d-124b-432e-af57-f018e85c38df.png)
+![Screenshot (542)](https://user-images.githubusercontent.com/93943990/232277930-eb6e9ca0-eacd-4406-9714-71c7b66269c9.png)
+![Screenshot (543)](https://user-images.githubusercontent.com/93943990/232277931-a7c08cdb-83e2-4986-b3e2-1ba00959f31b.png)
+![Screenshot (544)](https://user-images.githubusercontent.com/93943990/232277933-fdb28ede-c8f5-411d-8b60-dce0fdee85b0.png)
